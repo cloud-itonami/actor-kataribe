@@ -7,6 +7,6 @@
  :profile/id "actor-kataribe"
  :profile/default? true
  :bot/name "actor-kataribe"
- :bot/brief "etzhayyim/actor-kataribe の常駐 actor。charter に従って行動する。"
- :bot/context-refs [{:kind "repo" :target "etzhayyim/actor-kataribe"}]
+ :bot/brief "cloud-itonami/actor-kataribe の常駐 actor。charter に従って行動する。"
+ :bot/context-refs [{:kind "repo" :target "cloud-itonami/actor-kataribe"}]
  :bot/tools-requested []}

@@ -5,7 +5,7 @@
 **ADR**: ADR-2605263600 (R0 scaffold)
 **Status**: R0 scaffold (2026-05-26) — 6 cells path-reserved + 5 Lexicon skeletons
 **Cross-actor**: chigiri.ipLicenseClaim (whistleblower) / musubi (cross-doctrinal) / toritate (Public Fund grant) / kazaori (post-emergency chronicle) / manabi (future translated curriculum) / iyashi (clinical-grade review)
-**Canonical repository**: `etzhayyim/actor-kataribe`
+**Canonical repository**: `cloud-itonami/actor-kataribe`
 
 ## Overview
 
